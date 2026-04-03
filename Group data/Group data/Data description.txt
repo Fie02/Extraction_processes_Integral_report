@@ -1,0 +1,10 @@
+Data 
+File name – FTIR_2025_Group 1 and Group 2
+• The FTIR measurements conducted by the two groups (Group 1 and Group 2).
+The XRF measurements 
+• XRF_2024 – measurement conducted in 2024. There were three groups, with each group's measurements saved in the subfolder. 
+• XRF_LA_2025 – these are the XRF measurements performed by you (Group 1 and Group 2).
+Sampling locations 
+•	Sampling points location – the coordinates of each sampling point. Please note that this includes locations from last year as well.  
+Optional
+•	ASD – Visible and shortwave infrared measurements carried out by last year's students. 
