@@ -1,0 +1,73 @@
+sample_location,datasets,n_measurements,iron_oxides,clays,plot_class,clusters,interpreted_assemblages
+LMW_1,Group1,10,yes,no,iron_oxides_and_clays,6,Goethite/hematite + minor clay
+LMW_2,Group1,20,yes,yes,iron_oxides_and_clays,"6,7",Clay + ferric oxides/hydroxides | Goethite/hematite + minor clay
+LMW_3,Group1,10,yes,no,iron_oxides_and_clays,4,Goethite/jarosite ± hematite
+LMW_5,Group1,10,yes,yes,iron_oxides_and_clays,5,Jarosite + clay ± gypsum
+LMW_7,Group1,10,yes,yes,iron_oxides_and_clays,5,Jarosite + clay ± gypsum
+LMW_7_PROFILE_2,Group1,20,yes,yes,iron_oxides_and_clays,5,Jarosite + clay ± gypsum
+LMW_8,Group1,20,yes,yes,iron_oxides_and_clays,7,Clay + ferric oxides/hydroxides
+MM_1,Group1,10,yes,yes,iron_oxides_and_clays,1,Kaolinite/illite + ferric oxides/hydroxides
+MM_10,Group1,10,yes,yes,iron_oxides_and_clays,7,Clay + ferric oxides/hydroxides
+MM_2,Group1,10,yes,yes,iron_oxides_and_clays,7,Clay + ferric oxides/hydroxides
+MM_3,Group1,10,yes,yes,iron_oxides_and_clays,1,Kaolinite/illite + ferric oxides/hydroxides
+MM_4,Group1,10,yes,yes,iron_oxides_and_clays,1,Kaolinite/illite + ferric oxides/hydroxides
+MM_5,Group1,10,yes,yes,iron_oxides_and_clays,7,Clay + ferric oxides/hydroxides
+MM_7,Group1,10,yes,yes,iron_oxides_and_clays,3,Goethite/jarosite + clay
+MM_8,Group1,10,yes,no,iron_oxides_and_clays,4,Goethite/jarosite ± hematite
+MM_9,Group1,10,yes,yes,iron_oxides_and_clays,3,Goethite/jarosite + clay
+LMW_10,Group2,10,yes,yes,iron_oxides_and_clays,6,Clay + ferric sulphate/oxide mix
+LMW_11,Group2,10,yes,yes,iron_oxides_and_clays,6,Clay + ferric sulphate/oxide mix
+LMW_12,Group2,10,yes,yes,iron_oxides_and_clays,7,Jarosite + kaolinite/illite ± gypsum
+LMW_13,Group2,10,yes,yes,iron_oxides_and_clays,5,Goethite/jarosite + hydrated clay/sulphate
+LMW_13_A,Group2,10,yes,yes,iron_oxides_and_clays,2,Ferric oxides/hydroxides + minor clay
+LMW_16,Group2,10,yes,yes,iron_oxides_and_clays,8,Hydrated sulphate-clay assemblage (jarosite/alunite/gypsum + clay)
+LMW_17,Group2,10,no,yes,iron_oxides_and_clays,4,Weakly oxidized silicate/clay mixture
+LMW_21,Group2,10,yes,no,iron_oxides_and_clays,3,Jarosite/goethite-rich ferric weathering product
+LMW_22,Group2,10,yes,yes,iron_oxides_and_clays,2,Ferric oxides/hydroxides + minor clay
+LMW_23,Group2,10,no,yes,iron_oxides_and_clays,4,Weakly oxidized silicate/clay mixture
+LMW_24,Group2,10,no,yes,iron_oxides_and_clays,4,Weakly oxidized silicate/clay mixture
+MM_35,Group2,10,no,yes,iron_oxides_and_clays,4,Weakly oxidized silicate/clay mixture
+LMW_9_1,Group3,10,yes,yes,iron_oxides_and_clays,4,Hydrated sulphate/clay mixture (jarosite/alunite/gypsum-bearing)
+LMW_9_2,Group3,10,yes,yes,iron_oxides_and_clays,1,Clay + ferric oxides/hydroxides
+LMW_9_3,Group3,10,yes,yes,iron_oxides_and_clays,4,Hydrated sulphate/clay mixture (jarosite/alunite/gypsum-bearing)
+MM_12,Group3,10,yes,yes,iron_oxides_and_clays,7,Clay + ferric sulphate/oxide mix
+MM_13,Group3,10,yes,yes,iron_oxides_and_clays,7,Clay + ferric sulphate/oxide mix
+MM_14,Group3,10,yes,yes,iron_oxides_and_clays,1,Clay + ferric oxides/hydroxides
+MM_15,Group3,10,yes,yes,iron_oxides_and_clays,1,Clay + ferric oxides/hydroxides
+MM_16,Group3,10,yes,yes,iron_oxides_and_clays,6,Clay-ferric weathering assemblage
+MM_17,Group3,10,yes,yes,iron_oxides_and_clays,3,Ferric oxides/hydroxides + clay
+MM_18,Group3,10,yes,yes,iron_oxides_and_clays,1,Clay + ferric oxides/hydroxides
+MM_19,Group3,10,yes,yes,iron_oxides_and_clays,6,Clay-ferric weathering assemblage
+MM_20,Group3,10,yes,yes,iron_oxides_and_clays,1,Clay + ferric oxides/hydroxides
+MM_21,Group3,10,yes,yes,iron_oxides_and_clays,1,Clay + ferric oxides/hydroxides
+MM_22,Group3,10,yes,yes,iron_oxides_and_clays,6,Clay-ferric weathering assemblage
+MM_23_1,Group3,10,yes,yes,iron_oxides_and_clays,3,Ferric oxides/hydroxides + clay
+MM_23_2,Group3,10,yes,yes,iron_oxides_and_clays,2,Jarosite/goethite + kaolinite/illite
+MM_24,Group3,10,yes,yes,iron_oxides_and_clays,6,Clay-ferric weathering assemblage
+MM_25,Group3,10,yes,yes,iron_oxides_and_clays,7,Clay + ferric sulphate/oxide mix
+MM_26,Group3,10,yes,yes,iron_oxides_and_clays,7,Clay + ferric sulphate/oxide mix
+MM_27,Group3,10,yes,yes,iron_oxides_and_clays,6,Clay-ferric weathering assemblage
+LA24_01,Group4,50,yes,yes,iron_oxides_and_clays,5,Strongly hydrated sulphate/clay mixture (jarosite/alunite/gypsum-bearing)
+LA24_02,Group4,50,yes,yes,iron_oxides_and_clays,"1,2",Jarosite/goethite + clay (kaolinite/illite) | Jarosite/goethite-rich ferric weathering product
+LA24_03,Group4,50,yes,yes,iron_oxides_and_clays,"5,8",Strongly hydrated sulphate/clay mixture (jarosite/alunite/gypsum-bearing) | Clay + ferric sulphate/oxide mix
+LA24_04,Group4,50,yes,no,iron_oxides_only,2,Jarosite/goethite-rich ferric weathering product
+LA24_05,Group4,50,yes,yes,iron_oxides_and_clays,1,Jarosite/goethite + clay (kaolinite/illite)
+LA24_06,Group4,50,yes,yes,iron_oxides_and_clays,"1,2,8",Jarosite/goethite + clay (kaolinite/illite) | Jarosite/goethite-rich ferric weathering product | Clay + ferric sulphate/oxide mix
+LA24_07,Group4,50,yes,yes,iron_oxides_and_clays,1,Jarosite/goethite + clay (kaolinite/illite)
+LA24_08,Group4,50,yes,no,iron_oxides_only,2,Jarosite/goethite-rich ferric weathering product
+LA24_09,Group4,50,no,yes,clays_only,6,Al-clay / sulphate-bearing silicate mix (kaolinite/illite ± alunite/jarosite)
+LA24_10,Group4,50,no,yes,clays_only,6,Al-clay / sulphate-bearing silicate mix (kaolinite/illite ± alunite/jarosite)
+LA24_11,Group4,50,no,yes,clays_only,"4,6",Low-reflectance silicates with minor hydration | Al-clay / sulphate-bearing silicate mix (kaolinite/illite ± alunite/jarosite)
+LA24_18,Group4,50,no,yes,clays_only,6,Al-clay / sulphate-bearing silicate mix (kaolinite/illite ± alunite/jarosite)
+LA24_21,Group4,50,yes,no,iron_oxides_only,2,Jarosite/goethite-rich ferric weathering product
+LA24_22,Group4,50,yes,yes,iron_oxides_and_clays,7,Clay-dominant weathering assemblage (kaolinite/illite ± goethite)
+LA24_23,Group4,50,yes,no,iron_oxides_only,2,Jarosite/goethite-rich ferric weathering product
+LA24_24,Group4,50,yes,yes,iron_oxides_and_clays,8,Clay + ferric sulphate/oxide mix
+LA24_25,Group4,50,yes,yes,iron_oxides_and_clays,"2,8",Jarosite/goethite-rich ferric weathering product | Clay + ferric sulphate/oxide mix
+LA24_26,Group4,50,yes,yes,iron_oxides_and_clays,"5,8",Strongly hydrated sulphate/clay mixture (jarosite/alunite/gypsum-bearing) | Clay + ferric sulphate/oxide mix
+LA24_27,Group4,50,yes,yes,iron_oxides_and_clays,1,Jarosite/goethite + clay (kaolinite/illite)
+LA24_28,Group4,50,yes,yes,iron_oxides_and_clays,"1,7",Jarosite/goethite + clay (kaolinite/illite) | Clay-dominant weathering assemblage (kaolinite/illite ± goethite)
+LA24_29,Group4,50,yes,yes,iron_oxides_and_clays,"7,8",Clay-dominant weathering assemblage (kaolinite/illite ± goethite) | Clay + ferric sulphate/oxide mix
+LA24_30,Group4,50,yes,yes,iron_oxides_and_clays,"7,8",Clay-dominant weathering assemblage (kaolinite/illite ± goethite) | Clay + ferric sulphate/oxide mix
+LA24_31,Group4,50,yes,yes,iron_oxides_and_clays,1,Jarosite/goethite + clay (kaolinite/illite)
+LA24_32,Group4,50,yes,yes,iron_oxides_and_clays,"1,5,8",Jarosite/goethite + clay (kaolinite/illite) | Strongly hydrated sulphate/clay mixture (jarosite/alunite/gypsum-bearing) | Clay + ferric sulphate/oxide mix
